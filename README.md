@@ -12,8 +12,10 @@ Admin login functionality.
 List of registered users with multi-select capability.
 Option to send push notifications to selected users.
 Firebase Integration
+
 Firebase Cloud Messaging (FCM):
 Configured for both Flutter and React apps to send and receive push notifications.
+
 Implementation
 Flutter App:
 Setup includes adding Firebase configuration files and handling notification reception.
